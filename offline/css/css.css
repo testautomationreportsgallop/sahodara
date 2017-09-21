@@ -339,7 +339,7 @@ nav ul a:hover {
     background: transparent;
 }
 .nav-right {
-	margin-right: 13px;
+	margin-right: 0px;
 }
 .nav-right li {
 	border-left: 1px solid #00758d;
